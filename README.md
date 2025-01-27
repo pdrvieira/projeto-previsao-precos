@@ -40,8 +40,9 @@ Abra os notebooks em sua máquina para executar a análise e o modelo preditivo:
 1. Inicie o Jupyter Notebook com o comando:  
    `jupyter notebook`  
 2. Abra o arquivo `main_notebook.ipynb` e execute as células para visualizar o funcionamento do modelo.
-3. Ao executar você irá treinar o modelo de aprendizado de máquina **localmente** usando os dados fornecidos e
-salvará o modelo treinado **localmente** no diretório models/random_forest_model.pkl
+3. O modelo está no arquivo random_forest_model.zip. Unzip ele para usa-lo.
+4. Ao executar você irá treinar o modelo de aprendizado de máquina **localmente** usando os dados fornecidos e
+salvará o modelo treinado, **localmente**, também no seu diretório.
 
 ---
 
