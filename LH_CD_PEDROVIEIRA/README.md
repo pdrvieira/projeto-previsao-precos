@@ -19,7 +19,7 @@ Certifique-se de que você tem os seguintes itens instalados:
 ---
 
 ### 2. Clone o Repositório
-Acesse o repositório no GitHub:
+Acesse o repositório no GitHub: k
 
 1. URL de exemplo: [https://github.com/SEU_USUARIO/projeto-previsao-precos](https://github.com/SEU_USUARIO/projeto-previsao-precos)  
 2. Clique no botão verde **Code**.  
